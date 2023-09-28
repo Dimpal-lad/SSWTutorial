@@ -11,6 +11,9 @@ class MathFunctions:
     def divide(self, a: int, b: int) -> int:
         return a / b
     
+    def divide(self, a: int, b: int) -> int:
+        return a / b
+    
     """
         Generates velocity with provided distance, time and direction
         @distance in meters
